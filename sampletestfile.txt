@@ -4,3 +4,4 @@ random text here
 
  this is comparision
 
+ this is stash lecture change in file 1
